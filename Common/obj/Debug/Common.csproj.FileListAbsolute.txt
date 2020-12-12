@@ -1,0 +1,30 @@
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\Common\bin\Debug\Common.dll
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\Common\bin\Debug\Common.pdb
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\Common\obj\Debug\Common.dll
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\Common\obj\Debug\Common.pdb
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\Common\bin\Debug\Common.dll
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\Common\bin\Debug\Common.pdb
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\Common\obj\Debug\Common.dll
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\Common\obj\Debug\Common.pdb
+D:\Javier\Descargas\Common\bin\Debug\Common.dll
+D:\Javier\Descargas\Common\bin\Debug\Common.pdb
+D:\Javier\Descargas\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\Javier\Descargas\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Javier\Descargas\Common\obj\Debug\Common.dll
+D:\Javier\Descargas\Common\obj\Debug\Common.pdb
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\Final\Common\bin\Debug\Common.dll
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\Final\Common\bin\Debug\Common.pdb
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\Final\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\Final\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\Final\Common\obj\Debug\Common.dll
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\Final\Common\obj\Debug\Common.pdb
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\FinalV2\Common\bin\Debug\Common.dll
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\FinalV2\Common\bin\Debug\Common.pdb
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\FinalV2\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\FinalV2\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\FinalV2\Common\obj\Debug\Common.dll
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\FinalV2\Common\obj\Debug\Common.pdb

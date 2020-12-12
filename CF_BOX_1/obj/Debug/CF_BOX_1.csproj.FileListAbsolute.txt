@@ -1,0 +1,108 @@
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\CF_BOX_1\bin\Debug\CF_BOX_1.exe.config
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\CF_BOX_1\bin\Debug\CF_BOX_1.exe
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\CF_BOX_1\bin\Debug\CF_BOX_1.pdb
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\CF_BOX_1\bin\Debug\Common.dll
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\CF_BOX_1\bin\Debug\Domain.dll
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\CF_BOX_1\bin\Debug\System.Data.SqlClient.dll
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\CF_BOX_1\bin\Debug\DataAccess.dll
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\CF_BOX_1\bin\Debug\Common.pdb
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\CF_BOX_1\bin\Debug\Domain.pdb
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\CF_BOX_1\bin\Debug\System.Data.SqlClient.xml
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\CF_BOX_1\bin\Debug\DataAccess.pdb
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\CF_BOX_1\obj\Debug\CF_BOX_1.csprojAssemblyReference.cache
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\CF_BOX_1\obj\Debug\CF_BOX_1.frmLogin.resources
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\CF_BOX_1\obj\Debug\CF_BOX_1.frmRegistro.resources
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\CF_BOX_1\obj\Debug\CF_BOX_1.Properties.Resources.resources
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\CF_BOX_1\obj\Debug\CF_BOX_1.csproj.GenerateResource.cache
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\CF_BOX_1\obj\Debug\CF_BOX_1.csproj.CoreCompileInputs.cache
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\CF_BOX_1\obj\Debug\CF_BOX_1.csproj.CopyComplete
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\CF_BOX_1\obj\Debug\CF_BOX_1.exe
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\CF_BOX_1\obj\Debug\CF_BOX_1.pdb
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\CF_BOX_1\obj\Debug\CF_BOX_1.frmPersonal.resources
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\CF_BOX_1\obj\Debug\CF_BOX_1.frmMaterial.resources
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\CF_BOX_1\obj\Debug\CF_BOX_1.frmClases.resources
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\CF_BOX_1\obj\Debug\CF_BOX_1.Registros.frmCliente.resources
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\CF_BOX_1\obj\Debug\CF_BOX_1.csprojAssemblyReference.cache
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\CF_BOX_1\obj\Debug\CF_BOX_1.frmLogin.resources
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\CF_BOX_1\obj\Debug\CF_BOX_1.frmRegistro.resources
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\CF_BOX_1\obj\Debug\CF_BOX_1.Properties.Resources.resources
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\CF_BOX_1\obj\Debug\CF_BOX_1.frmClases.resources
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\CF_BOX_1\obj\Debug\CF_BOX_1.Registros.frmCliente.resources
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\CF_BOX_1\obj\Debug\CF_BOX_1.frmMaterial.resources
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\CF_BOX_1\obj\Debug\CF_BOX_1.frmPersonal.resources
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\CF_BOX_1\obj\Debug\CF_BOX_1.csproj.GenerateResource.cache
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\CF_BOX_1\obj\Debug\CF_BOX_1.csproj.CoreCompileInputs.cache
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\CF_BOX_1\obj\Debug\CF_BOX_1.exe
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\CF_BOX_1\obj\Debug\CF_BOX_1.pdb
+D:\Javier\Descargas\CF_BOX_1\obj\Debug\CF_BOX_1.csprojAssemblyReference.cache
+D:\Javier\Descargas\CF_BOX_1\obj\Debug\CF_BOX_1.frmLogin.resources
+D:\Javier\Descargas\CF_BOX_1\obj\Debug\CF_BOX_1.frmRegistro.resources
+D:\Javier\Descargas\CF_BOX_1\obj\Debug\CF_BOX_1.Properties.Resources.resources
+D:\Javier\Descargas\CF_BOX_1\obj\Debug\CF_BOX_1.frmClases.resources
+D:\Javier\Descargas\CF_BOX_1\obj\Debug\CF_BOX_1.Registros.frmCliente.resources
+D:\Javier\Descargas\CF_BOX_1\obj\Debug\CF_BOX_1.frmMaterial.resources
+D:\Javier\Descargas\CF_BOX_1\obj\Debug\CF_BOX_1.frmPersonal.resources
+D:\Javier\Descargas\CF_BOX_1\obj\Debug\CF_BOX_1.csproj.GenerateResource.cache
+D:\Javier\Descargas\CF_BOX_1\obj\Debug\CF_BOX_1.csproj.CoreCompileInputs.cache
+D:\Javier\Descargas\CF_BOX_1\obj\Debug\CF_BOX_1.exe
+D:\Javier\Descargas\CF_BOX_1\obj\Debug\CF_BOX_1.pdb
+D:\Javier\Descargas\CF_BOX_1\bin\Debug\CF_BOX_1.exe.config
+D:\Javier\Descargas\CF_BOX_1\bin\Debug\CF_BOX_1.exe
+D:\Javier\Descargas\CF_BOX_1\bin\Debug\CF_BOX_1.pdb
+D:\Javier\Descargas\CF_BOX_1\bin\Debug\Common.dll
+D:\Javier\Descargas\CF_BOX_1\bin\Debug\Domain.dll
+D:\Javier\Descargas\CF_BOX_1\bin\Debug\System.Data.SqlClient.dll
+D:\Javier\Descargas\CF_BOX_1\bin\Debug\DataAccess.dll
+D:\Javier\Descargas\CF_BOX_1\bin\Debug\Common.pdb
+D:\Javier\Descargas\CF_BOX_1\bin\Debug\Domain.pdb
+D:\Javier\Descargas\CF_BOX_1\bin\Debug\System.Data.SqlClient.xml
+D:\Javier\Descargas\CF_BOX_1\bin\Debug\DataAccess.pdb
+D:\Javier\Descargas\CF_BOX_1\obj\Debug\CF_BOX_1.csproj.CopyComplete
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\Final\CF_BOX_1\bin\Debug\CF_BOX_1.exe.config
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\Final\CF_BOX_1\bin\Debug\CF_BOX_1.exe
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\Final\CF_BOX_1\bin\Debug\CF_BOX_1.pdb
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\Final\CF_BOX_1\bin\Debug\Common.dll
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\Final\CF_BOX_1\bin\Debug\Domain.dll
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\Final\CF_BOX_1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\Final\CF_BOX_1\bin\Debug\DataAccess.dll
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\Final\CF_BOX_1\bin\Debug\Common.pdb
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\Final\CF_BOX_1\bin\Debug\Domain.pdb
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\Final\CF_BOX_1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\Final\CF_BOX_1\bin\Debug\DataAccess.pdb
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\Final\CF_BOX_1\obj\Debug\CF_BOX_1.csprojAssemblyReference.cache
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\Final\CF_BOX_1\obj\Debug\CF_BOX_1.frmLogin.resources
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\Final\CF_BOX_1\obj\Debug\CF_BOX_1.frmRegistro.resources
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\Final\CF_BOX_1\obj\Debug\CF_BOX_1.Properties.Resources.resources
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\Final\CF_BOX_1\obj\Debug\CF_BOX_1.frmClases.resources
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\Final\CF_BOX_1\obj\Debug\CF_BOX_1.Registros.frmCliente.resources
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\Final\CF_BOX_1\obj\Debug\CF_BOX_1.frmMaterial.resources
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\Final\CF_BOX_1\obj\Debug\CF_BOX_1.frmPersonal.resources
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\Final\CF_BOX_1\obj\Debug\CF_BOX_1.csproj.GenerateResource.cache
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\Final\CF_BOX_1\obj\Debug\CF_BOX_1.csproj.CoreCompileInputs.cache
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\Final\CF_BOX_1\obj\Debug\CF_BOX_1.csproj.CopyComplete
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\Final\CF_BOX_1\obj\Debug\CF_BOX_1.exe
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\Final\CF_BOX_1\obj\Debug\CF_BOX_1.pdb
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\FinalV2\CF_BOX_1\bin\Debug\CF_BOX_1.exe.config
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\FinalV2\CF_BOX_1\bin\Debug\CF_BOX_1.exe
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\FinalV2\CF_BOX_1\bin\Debug\CF_BOX_1.pdb
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\FinalV2\CF_BOX_1\bin\Debug\Common.dll
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\FinalV2\CF_BOX_1\bin\Debug\Domain.dll
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\FinalV2\CF_BOX_1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\FinalV2\CF_BOX_1\bin\Debug\DataAccess.dll
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\FinalV2\CF_BOX_1\bin\Debug\Common.pdb
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\FinalV2\CF_BOX_1\bin\Debug\Domain.pdb
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\FinalV2\CF_BOX_1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\FinalV2\CF_BOX_1\bin\Debug\DataAccess.pdb
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\FinalV2\CF_BOX_1\obj\Debug\CF_BOX_1.csprojAssemblyReference.cache
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\FinalV2\CF_BOX_1\obj\Debug\CF_BOX_1.frmLogin.resources
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\FinalV2\CF_BOX_1\obj\Debug\CF_BOX_1.frmRegistro.resources
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\FinalV2\CF_BOX_1\obj\Debug\CF_BOX_1.Properties.Resources.resources
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\FinalV2\CF_BOX_1\obj\Debug\CF_BOX_1.frmClases.resources
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\FinalV2\CF_BOX_1\obj\Debug\CF_BOX_1.Registros.frmCliente.resources
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\FinalV2\CF_BOX_1\obj\Debug\CF_BOX_1.frmMaterial.resources
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\FinalV2\CF_BOX_1\obj\Debug\CF_BOX_1.frmPersonal.resources
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\FinalV2\CF_BOX_1\obj\Debug\CF_BOX_1.csproj.GenerateResource.cache
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\FinalV2\CF_BOX_1\obj\Debug\CF_BOX_1.csproj.CoreCompileInputs.cache
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\FinalV2\CF_BOX_1\obj\Debug\CF_BOX_1.csproj.CopyComplete
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\FinalV2\CF_BOX_1\obj\Debug\CF_BOX_1.exe
+C:\Users\Paco_\Documents\DICIS\2020\Ago-Dic\SistemasInformacion\FinalV2\CF_BOX_1\obj\Debug\CF_BOX_1.pdb
